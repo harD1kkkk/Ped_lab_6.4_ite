@@ -1,0 +1,4 @@
+﻿  lab_6.4.cpp
+C:\Users\student\source\repos\LAB_6.4_ite\LAB_6.4_ite\lab_6.4.cpp(40,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\student\source\repos\LAB_6.4_ite\LAB_6.4_ite\lab_6.4.cpp(46,27): warning C4244: '*=': conversion from 'const double' to 'int', possible loss of data
+  LAB_6.4_ite.vcxproj -> C:\Users\student\source\repos\LAB_6.4_ite\Debug\LAB_6.4_ite.exe
